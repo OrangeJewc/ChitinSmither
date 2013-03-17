@@ -5,7 +5,7 @@
     <ignored path="ChitinSmither.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="8cd13a42-1e0a-44b7-a52d-7e89031ab5e1" time="1363466908622" ignored="false" />
-    <file path="/Main.java" changelist="8cd13a42-1e0a-44b7-a52d-7e89031ab5e1" time="1363485432979" ignored="false" />
+    <file path="/Main.java" changelist="8cd13a42-1e0a-44b7-a52d-7e89031ab5e1" time="1363487049761" ignored="false" />
     <file path="$PROJECT_DIR$/../PaintAPI/src/PaintAPI/java.java" changelist="8cd13a42-1e0a-44b7-a52d-7e89031ab5e1" time="1363473677837" ignored="false" />
     <file path="$PROJECT_DIR$/../PaintAPI/src/PaintAPI.java" changelist="8cd13a42-1e0a-44b7-a52d-7e89031ab5e1" time="1363473714503" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="28" selection-start="2848" selection-end="2848" vertical-scroll-proportion="0.79833925">
+            <state line="113" column="56" selection-start="0" selection-end="4335" vertical-scroll-proportion="0.717675">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -314,7 +314,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1688" height="1018" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -329,7 +329,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21848226" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21848226" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -407,7 +407,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="28" selection-start="2848" selection-end="2848" vertical-scroll-proportion="0.79833925">
+        <state line="113" column="56" selection-start="0" selection-end="4335" vertical-scroll-proportion="0.717675">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
